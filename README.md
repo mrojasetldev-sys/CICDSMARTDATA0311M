@@ -1,2 +1,2 @@
-# CICDSMARTDATA0311M
-Este repositorio consta del laboratorio de CI/CD con Databricks y Github del curso de ingenieria de datos con Databricks en SmartData
+# CICDSMARTDATA2309
+este proyecto consta de la clase de ingenieria de datos e ai con databricks de CICD entre ambientes de databricks.
